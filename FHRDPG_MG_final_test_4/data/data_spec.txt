@@ -1,0 +1,4 @@
+data.csv：raw data。the second column is load，the third column is PV, kWh。
+data_dt_1.csv：data。the second column is load，the third column is PV, kW，time step is 1min。
+data_dt_15.csv：data。the second column is load，the third column is PV, kW，time step is 15min。
+data_dt_30.csv：data。the second column is load，the third column is PV, kW，time step is 30min。
